@@ -1,14 +1,3 @@
-# Autograding Example: Java
-This example project is written in Java, and tested with Gradle/JUnit.
+# Actividad Classroom FASTBREAK
 
-### The assignment
-The tests are currently failing because of an output mismatch. Fixing the `System.out.println` in the main method will make the tests green.
-
-### Setup command
-N/A
-
-### Run command
-`gradle test`
-
-### Notes
-- The JDK is installed on GitHub Actions machines, so you're also able to directly invoke `javac`, `java`, or any other CLI command included in the JDK. 
+el código aquí mostrado se puede considerar una cópia del código de David Gelpi (he intentando hacerlo por mi cuenta siguiendo el UML del repositorio original pero en cuanto me he atascado he seguido con el código del mismo intentando entenderlo).
